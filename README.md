@@ -27,6 +27,7 @@
 <br>
 <br>
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DooHongKm&langs_count=8&card_width=500)](https://github.com/DooHongKm/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DooHongKm&langs_count=8&layout=compact&&width=500)](https://github.com/DooHongKm/github-readme-stats)
 <!--
 **DooHongKm/DooHongKm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
