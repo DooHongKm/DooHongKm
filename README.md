@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule&fontSize=90)
 
-## 김두홍의 깃허브
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Doohong's Github&fontSize=90"
 
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -20,7 +20,6 @@
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DooHongKm/DooHongKm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
