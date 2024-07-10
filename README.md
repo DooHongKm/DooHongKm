@@ -27,7 +27,7 @@
   <br>
   <br>
   <br>
-  [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DooHongKm&langs_count=8&card_width=500)](https://github.com/DooHongKm/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DooHongKm&langs_count=8&card_width=500" alt="Most Used Languages"/>
 </div>
 
 <!--
