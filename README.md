@@ -25,7 +25,9 @@
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 <br>
 <br>
+<br>
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DooHongKm&langs_count=8)](https://github.com/DooHongKm/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DooHongKm&langs_count=8&card_width=150)](https://github.com/DooHongKm/github-readme-stats)
 <!--
 **DooHongKm/DooHongKm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
