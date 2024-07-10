@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=E2F0D9&height=250&section=header&text=Doohong's&nbsp;Github&fontSize=80)
-<br>
-<br>
 <div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=rect&color=E2F0D9&height=250&section=header&text=Doohong's&nbsp;Github&fontSize=80)
+  <br>
+  <br>
   <h3>Languages & Frameworks</h3>
   <img src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white>
   <img src=https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white>
