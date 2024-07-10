@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=default(#B897FF)&height=250&section=header&text=Doohong's&nbsp;Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=#B897FF&height=250&section=header&text=Doohong's&nbsp;Github&fontSize=90)
 <br>
 <br>
 Languages & Frameworks
