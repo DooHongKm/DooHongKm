@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=https://capsule-render.vercel.app/api?type=rect&color=E2F0D9&height=220&section=header&text=Doohong's&nbsp;Github&fontSize=80>
+  <img src=https://capsule-render.vercel.app/api?type=rect&color=E2F0D9&height=200&section=header&text=Doohong's&nbsp;Github&fontSize=80>
   <br>
   <br>
   <h3>Languages & Frameworks</h3>
