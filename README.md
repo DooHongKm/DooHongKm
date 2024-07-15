@@ -9,6 +9,7 @@
   <img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white>
   <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB>
   <br>
+  <img src=https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white>
   <img src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white>
   <img src=https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white>
   <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white>
